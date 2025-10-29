@@ -387,16 +387,6 @@ const LoginSection: React.FC = () => {
                 </motion.button>
               </form>
 
-              <div className="mt-8 text-center">
-                <div className="bg-blue-50 rounded-2xl p-4">
-                  <p className="text-sm text-blue-800 font-medium mb-2">Demo Credentials</p>
-                    <div className="text-xs text-blue-600 space-y-1">
-                    <p><strong>Student:</strong> himanshu123 / 123</p>
-                    <p><strong>Teacher:</strong> Avinash / abc</p>
-                    <p><strong>Admin:</strong> admin@school.com / admin123</p>
-                  </div>
-                </div>
-              </div>
             </motion.div>
           )}
         </div>
