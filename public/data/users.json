@@ -1,0 +1,222 @@
+[
+  {
+    "admissionId": "himanshu123",
+    "password": "123",
+    "name": "Himanshu Kumar",
+    "roles": ["student"],
+    "dob": "08-07-2011",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\himanshu123.jpg"
+  },
+  {
+    "admissionId": "adarshraj001",
+    "password": "123",
+    "name": "Adarsh Raj",
+    "roles": ["student"],
+    "dob": "05-09-2012",
+    "bloodGroup": "A+",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "adityaks001",
+    "password": "123",
+    "name": "Aditya Kumar Singh",
+    "roles": ["student"],
+    "dob": "23-02-2012",
+    "bloodGroup": "B-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "adityaraj002",
+    "password": "123",
+    "name": "Aditya Raj",
+    "roles": ["student"],
+    "dob": "21-11-2010",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "yaham001",
+    "password": "123",
+    "name": "Yaham Anand",
+    "roles": ["student"],
+    "dob": "28-09-2010",
+    "bloodGroup": "o-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "ayush001",
+    "password": "123",
+    "name": "Ayush Kumar",
+    "roles": ["student"],
+    "dob": "18-06-2010",
+    "bloodGroup": "O-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "vaibhav001",
+    "password": "123",
+    "name": "Vaibhav Krishna",
+    "roles": ["student"],
+    "dob": "27-08-2010",
+    "bloodGroup": "A-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "mintoo001",
+    "password": "123",
+    "name": "Mintoo Kumar",
+    "roles": ["student"],
+    "dob": "14-04-2010",
+    "bloodGroup": "O-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "pappu001",
+    "password": "123",
+    "name": "Pappu Kumar",
+    "roles": ["student"],
+    "dob": "30-04-2011",
+    "bloodGroup": "O+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "ujjwal001",
+    "password": "123",
+    "name": "Ujjwal Mishra",
+    "roles": ["student"],
+    "dob": "14-01-2011",
+    "bloodGroup": "A+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "manu001",
+    "password": "123",
+    "name": "Manu Kumar",
+    "roles": ["student"],
+    "dob": "02-07-2010",
+    "bloodGroup": "AB-",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "arhan001",
+    "password": "123",
+    "name": "Arhan Sohail",
+    "roles": ["student"],
+    "dob": "25-05-2010",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "chirag001",
+    "password": "123",
+    "name": "Chirag Kumar",
+    "roles": ["student"],
+    "dob": "11-10-2010",
+    "bloodGroup": "O+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "harshit001",
+    "password": "123",
+    "name": "Harshit Kumar",
+    "roles": ["student"],
+    "dob": "06-03-2011",
+    "bloodGroup": "A+",
+    "className": "IX",
+    "section": "NEEV",
+  "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "praveen001",
+    "password": "123",
+    "name": "Praveen Kumar",
+    "roles": ["student"],
+    "dob": "19-09-2010",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "sakshi001",
+    "password": "123",
+    "name": "Sakshi Singh",
+    "roles": ["student"],
+    "dob": "08-08-2012",
+    "bloodGroup": "O-",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+  },
+  {
+    "admissionId": "tanya001",
+    "password": "123",
+    "name": "Tanya Kumari",
+    "roles": ["student"],
+    "dob": "29-04-2011",
+    "bloodGroup": "A-",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+},
+{
+    "admissionId": "diksha001",
+    "password": "123",
+    "name": "Diksha Kumari",
+    "roles": ["student"],
+    "dob": "16-02-2011",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+},
+{
+    "admissionId": "jiya001",
+    "password": "123",
+    "name": "Jiya Kumari",
+    "roles": ["student"],
+    "dob": "04-06-2010",
+    "bloodGroup": "AB+",
+    "className": "IX",
+    "section": "NEEV",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+},
+{
+    "admissionId": "harsh",
+    "password": "123",
+    "name": "Harsh Raj",
+    "roles": ["student"],
+    "dob": "05-10-2010",
+    "bloodGroup": "B+",
+    "className": "IX",
+    "section": "B",
+    "profilePhoto": "public\\data\\images\\Default.jpg"
+  }
+]

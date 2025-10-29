@@ -1,0 +1,92 @@
+[
+  {
+    "teacherId": "Avinash",
+    "password": "abc",
+    "name": "MR Avinash Kumar",
+    "roles": ["teacher"],
+    "email": "avinash@gmail.com",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+  "classes": ["VIII", "IX"],
+  "sections": ["NEEV", "NEEV"],
+  "subjects": ["Mathematics"]
+  },
+  {
+    "teacherId": "Rahul",
+    "password": "abc",
+    "name": "Mr Rahul",
+    "roles": ["teacher"],
+    "email": "rahul@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+  "classes": ["IX", "X"],
+  "sections": ["B", "NEEV"],
+  "subjects": ["Artificial Intelligence"]
+  },
+  {
+    "teacherId": "Azence",
+    "password": "abc",
+    "name": "Mr Azence Kumar",
+    "roles": ["teacher"],
+    "email": "azence@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+  "classes": ["IX", "X", "XI", "XII"],
+  "sections": ["B", "NEEV"],
+  "subjects": ["Physics"]
+  }
+  ,
+  {
+    "teacherId": "Ajit",
+    "password": "abc",
+    "name": "Ajit Kumar",
+    "roles": ["teacher"],
+    "email": "ajit.kumar@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+    "classes": ["IX"],
+    "sections": ["A"],
+    "subjects": ["English"]
+  },
+  {
+    "teacherId": "Kamlesh",
+    "password": "abc",
+    "name": "Kamlesh Kumar",
+    "roles": ["teacher"],
+    "email": "kamlesh.kumar@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+    "classes": ["X"],
+    "sections": ["B"],
+    "subjects": ["Chemistry"]
+  },
+  {
+    "teacherId": "Ashish",
+    "password": "abc",
+    "name": "Ashish Singh",
+    "roles": ["teacher"],
+    "email": "ashish.singh@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+    "classes": ["IX"],
+    "sections": ["NEEV"],
+    "subjects": ["Biology"]
+  },
+  {
+    "teacherId": "Ratnesh",
+    "password": "abc",
+    "name": "Ratnesh Mishra",
+    "roles": ["teacher"],
+    "email": "ratnesh.mishra@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+    "classes": ["VIII"],
+    "sections": ["A"],
+    "subjects": ["Hindi"]
+  },
+  {
+    "teacherId": "DinDayal",
+    "password": "abc",
+    "name": "Din Dayal Rai",
+    "roles": ["teacher"],
+    "email": "din.dayal@school.edu",
+    "profilePhoto": "public\\data\\images\\Default.jpg",
+    "classes": ["VIII"],
+    "sections": ["B"],
+    "subjects": ["Social Studies"]
+  }, 
+   
+]
